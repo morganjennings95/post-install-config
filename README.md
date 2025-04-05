@@ -41,6 +41,90 @@ First thing we will do is create a new role, be sure you are in the admin panel 
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/53db8705-36ab-417e-84ff-b52d18bc696f)
+
+<p>
+Next, let's create a department, select Agents -> Departments -> Add New Department, and we will create a "Top level department" named "SysAdmins" now select Create Department at the bottom of the page
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/9c1f1988-6765-43df-ae9d-72298cce8315)
+
+<p>
+Next I will create a team, select Agents -> Teams -> Add New Team, again this can be named whatever you desire, I have chosen "Online Banking" for this demonstration, select "Create Team"
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/74d28ba0-a6f2-4582-a344-bf571cb45a0d)
+
+<p>
+For the purposes of this demonstration we will be sure that there is no registration required in order to create tickets, so be sure under the settings tab that your page looks like the one pictured above.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/c89a0028-ba7c-491f-9980-5a058e225cdc)
+
+<p>
+Now we will create some agents, be sure to note down the password you assign to your agent(s), under "Access" George will be "SysAdmins" and "Supreme Admin" role, "Permissions" will be left alone and "Teams" will be "Online Banking" now select create. Again we are going to create a second agent called James with a "support" position with "view only" access.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/86767b63-0821-48f8-b6a3-8d0fa936283e)
+
+<p>
+Now we will create a user, enter the Agent Panel, select Users -> Add User and create a randomized user name and email, select Add user
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/913b224b-1af5-4264-b867-f167c0fcd9fa) ![image](https://github.com/user-attachments/assets/f4ccce25-e341-4951-9e91-4706fe36da89) ![image](https://github.com/user-attachments/assets/35115bcd-bcbf-4752-a7c5-8d86360bc37a)
+
+
+
+<p>
+Time to set up some Service Level Agreements (SLAs). Return to the Admin Panel select Manage -> SLA -> Add New SLA Plan and create a 3 SLAs titled Sev-A, B, & C as seen in the images above
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/c0976ab9-5eac-44a8-ada4-28e676d7c71d) ![image](https://github.com/user-attachments/assets/aec33ea3-3afb-433e-a167-350666fffd06)
+
+
+<p>
+Let's create multiple "Help Topics" Manage -> Help Topics -> Add New Help Topic, call these topics Business Critical Outage, Personal Computer Issue, Equipment Reset, Password Reset & Other. For these, assign a "Parent Topic" of either report a problem or general inquiry to organize them as you see fit for your project. Once completed you will see all Help Topics laid out as seen in the image above. This will conclude the post installation setup
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
